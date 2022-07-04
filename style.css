@@ -38,6 +38,22 @@ section{
     border-radius: 15px;
     margin-top: 30px;
 }
-.sec-2{
+.third{
+    margin-left: 3%;
+}
+.parent{
     display: flex;
+    margin-top: 100px;
+}
+.ch{
+    background-image: linear-gradient(rgba(28, 252, 177, 0.692), rgba(3, 148, 158, 0.438));
+    border-left: 8px solid blue;
+    border-radius: 3%;
+    padding: 5%;
+    margin: 30px;
+}
+.ch p{
+    font-size: 15px;
+    font-weight: 600;
+    text-align: justify;
 }
